@@ -1,3 +1,5 @@
-# COMP0147 Notes: Discrete Mathematics for Computer Scientists
+<h1 align="center">Discrete Mathematics for Computer Scientists</h1>
 
-Notes for the module COMP0147 - Discrete Mathematics for Computer Scientists.
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notes-COMP0147-blue">
+</div>
